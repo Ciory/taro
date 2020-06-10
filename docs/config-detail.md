@@ -454,7 +454,7 @@ module.exports = {
 }
 ```
 
-#### mini.compile.incldue
+#### mini.compile.include
 
 `array`
 
